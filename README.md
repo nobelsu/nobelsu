@@ -1,4 +1,4 @@
-# Hi! I'm Nobel.
+# Hi! I'm an Oxford CS major.
 
 I'm an undergraduate at the University of Oxford reading computer science.
 
